@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/shadow00caster
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://www.mattrhoades.com
+  * I am shadow00caster (https://keybase.io/shadow00caster) on keybase.
+  * I have a public key ASAEnqC5yfhxd8O1loLYwE5aBP2iVLFjCP7fVyTM1mVdrgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120049ea0b9c9f87177c3b59682d8c04e5a04fda254b16308fedf5724ccd6655dae0a",
+      "host": "keybase.io",
+      "kid": "0120049ea0b9c9f87177c3b59682d8c04e5a04fda254b16308fedf5724ccd6655dae0a",
+      "uid": "55431c9612cfbaad1f8c754017c0df19",
+      "username": "shadow00caster"
+    },
+    "merkle_root": {
+      "ctime": 1571190624,
+      "hash": "ddf8ceb6e8943eea0c081a58beb4dac416d8f36dee938d26ea7430407ccad3088f072040d6f65fa0c41fdf854739c0469c78bd00fb302e39d3720ec831f1115a",
+      "hash_meta": "374b6a28c0eb3df7c9b97c4bad351be3a1d05902284ddd4b6a7d53c7c70577f5",
+      "seqno": 8155470
+    },
+    "service": {
+      "entropy": "RaiPJF8cWXc81FMzg76nMPTR",
+      "hostname": "www.mattrhoades.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.6.1"
+  },
+  "ctime": 1571190654,
+  "expire_in": 504576000,
+  "prev": "c5a60b07ad24e228ae820414f3542cb200c7b9cac0afcdfa469c5bbce02f1d2a",
+  "seqno": 23,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgBJ6gucn4cXfDtZaC2MBOWgT9olSxYwj+31ckzNZlXa4Kp3BheWxvYWTESpcCF8QgxaYLB60k4iiuggQU81QssgDHucrAr836RpxbvOAvHSrEIDLnU5gNzEl1tWBviDFyfzZeIDFg1/d2qfHR4JcCeL97AgHCo3NpZ8RAbqkPw0H3cviTK2Hqz1WCvOHjz3sz+Ll5c4//Kfbk02AxWx0QNXuZKbahP1YSuWi3A/JKIT1Qkq/7Z5Jn3S8ZBahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIL0mQz/ZdZtumvlpuWnIIdJChSP2IVnoxR0UsKles8kOo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/shadow00caster
+
+==================================================================
